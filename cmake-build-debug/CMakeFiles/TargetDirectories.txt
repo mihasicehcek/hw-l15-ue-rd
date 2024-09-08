@@ -1,3 +1,0 @@
-C:/Users/mihas/CLionProjects/hw_l15/cmake-build-debug/CMakeFiles/hw_l15.dir
-C:/Users/mihas/CLionProjects/hw_l15/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mihas/CLionProjects/hw_l15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
